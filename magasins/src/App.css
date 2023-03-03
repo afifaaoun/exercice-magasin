@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: #EEE;
+}
+
+.popup{
+   background-color:rgb(209, 205, 198);
+   z-index: 100;
+}
+.cartes{
+  display: flex;
+justify-content: center;}
